@@ -28,8 +28,7 @@ Council Terminal solves this by analyzing the divergence between visible order b
 
 ## Resources & Live Feed
 
-- **Technical Deep Dive:** [Dev.to article](https://dev.to) *(ссылка будет добавлена после публикации)*
-- **Live Anomaly Feed:** [t.me/council_terminal](https://t.me/council_terminal)
+- **Live Anomaly Feed:** The terminal runs 24/7, posting curated, delayed digests of market microstructure events to our public channel: [t.me/council_terminal](https://t.me/council_terminal)
 
 ## Tech Stack
 
