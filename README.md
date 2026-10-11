@@ -26,10 +26,9 @@ Council Terminal solves this by analyzing the divergence between visible order b
 
 *Real-time detection of structural anomalies: spoofed walls, hidden liquidity, and cross-exchange confluence signals across 5 major exchanges.*
 
-## Resources & Live Feed
+## Demo & Resources
 
-- **Live Anomaly Feed:** The terminal runs 24/7, posting curated, delayed digests of market microstructure events to our public channel: [t.me/council_terminal](https://t.me/council_terminal)
-
+For familiarization purposes, a simplified version of the terminal's output is available here: [t.me/council_terminal](https://t.me/council_terminal)
 ## Tech Stack
 
 - **Language:** Python 3.9+
