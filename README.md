@@ -1,12 +1,14 @@
 # Council Terminal
 
+# Council Terminal
+
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-Proprietary-red.svg)]()
+[![License](https://img.shields.io/badge/License-Closed-red.svg)]()
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey.svg)]()
 
-A proprietary, multi-threaded microstructure monitor designed to detect hidden liquidity, order book spoofing, and structural market imbalances across 5 major cryptocurrency exchanges in real-time.
+Real-time cryptocurrency market microstructure analysis tool. Detects hidden liquidity, order book spoofing, and structural imbalances across 5 exchanges simultaneously.
 
-> **Note:** The core detection engine is a closed, proprietary system. This repository serves as an architectural overview and documentation hub.
+> **Note:** The build presented here is a prototype designed to validate proprietary algorithmic logic (FLOW/MIRAGE/NEXUS architecture). The core engine is implemented in Python. Visualization is handled using Flet and DearPyGui.
 
 ## The Problem
 
