@@ -22,12 +22,6 @@ Council Terminal solves this by analyzing the divergence between visible order b
 - **MIRAGE:** Scans the top levels of the order book for anomalous, static walls. Tracks their lifecycle to distinguish genuine liquidity from manipulation (spoofing).
 - **NEXUS:** The confluence engine. Cross-references FLOW and MIRAGE data, applying deduplication tolerance and cascading API fallbacks to generate high-confidence verdicts (`CONFIRMED`, `FAKE`, `HIDDEN BUYER/SELLER`).
 
-## Live Capture
-
-![Council Terminal Interface](assets/terminal_screenshot.png)
-
-*Real-time detection of structural anomalies: spoofed walls, hidden liquidity, and cross-exchange confluence signals across 5 major exchanges.*
-
 ## Demo & Resources
 
 ### Structural Anomaly Detection
@@ -37,6 +31,10 @@ Council Terminal solves this by analyzing the divergence between visible order b
 ### Multi-Level Confluence
 ![Council Terminal — Multi-Level Confluence](assets/terminal_confluence.png)
 *Double whale bids at 82980 (20.3 + 20.7 BTC), spoof cascades from both sides, and a textbook SHADOW BREAK @ 83000: "Big trades executed, but no visible wall in book."*
+
+### Live Output
+
+A simplified, curated feed of the terminal's real-time detection events is available here: [t.me/council_terminal](https://t.me/council_terminal)
 
 ## Tech Stack
 
