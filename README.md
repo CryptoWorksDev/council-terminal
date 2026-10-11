@@ -31,12 +31,14 @@ Council Terminal solves this by analyzing the divergence between visible order b
 ## Demo & Resources
 
 For familiarization purposes, a simplified version of the terminal's output is available here: [t.me/council_terminal](https://t.me/council_terminal)
+
 ## Tech Stack
 
-- **Language:** Python 3.9+
-- **GUI:** Flet / CustomTkinter
-- **Data:** ccxt, websockets, requests
+- **Language:** Python 3.12+
+- **Visualization:** Flet, DearPyGui
+- **Data Connectivity:** `ccxt`, `websockets`, `requests`
 - **Resilience:** Custom cascading API fallback mechanism and global exception handling for 24/7 autonomous uptime.
+
 
 ---
 
