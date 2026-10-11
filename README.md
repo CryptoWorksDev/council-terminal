@@ -30,6 +30,14 @@ Council Terminal solves this by analyzing the divergence between visible order b
 
 ## Demo & Resources
 
+### Structural Anomaly Detection
+![Council Terminal — Double Whale & Shadow Break](assets/terminal_whale.png)
+*Double whale bids at 82980 (20.3 + 20.7 BTC), spoof cascades from both sides, and a textbook SHADOW BREAK @ 83000: "Big trades executed, but no visible wall in book."*
+
+### Multi-Level Confluence
+![Council Terminal — Multi-Level Confluence](assets/terminal_confluence.png)
+*Coordinated whale activity across SNIPER and BALANCE levels (22.5–35.5 BTC), HIDDEN SELLER verdict, and CONFIRMED signals at the same price zone — rare cross-depth confluence.*
+
 For familiarization purposes, a simplified version of the terminal's output is available here: [t.me/council_terminal](https://t.me/council_terminal)
 
 ## Tech Stack
