@@ -22,9 +22,9 @@ Council Terminal solves this by analyzing the divergence between visible order b
 
 ## Live Capture
 
-![Council Terminal Anomaly Detection](assets/terminal_screenshot.png)
+![Council Terminal Interface](assets/terminal_screenshot.png)
 
-*The engine flagged a high-probability long squeeze, detected a massive spoofed Ask wall withdrawn without execution, and simultaneously logged heavy, hidden buying pressure (15.8 BTC filled) just above it.*
+*Real-time detection of structural anomalies: spoofed walls, hidden liquidity, and cross-exchange confluence signals across 5 major exchanges.*
 
 ## Resources & Live Feed
 
